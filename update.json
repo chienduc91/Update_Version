@@ -1,3 +1,6 @@
 {
-    "force_update": true
+    "isUpdate": true,
+    "isForceUpdate": true,
+    "latestVersion_ios": "4.9.18",
+    "latestVersion_android": "4.9.18"
 }
